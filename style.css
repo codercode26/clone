@@ -1,0 +1,360 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color: bisque;
+}
+.nav{
+    background-color: black;
+}
+
+
+li{
+    display: inline-block;
+    color: white;
+}
+
+#spotify{
+    height: 35px;
+    padding:5px;
+}
+
+.contain{
+    
+    border-radius: 12px;
+    height: 75vh;
+    width:70vw;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+    display: flex;
+    color: white;
+    margin: 15px auto;
+    padding: 12px;
+    background-image: url("real.jpg");
+
+}
+
+.bottom{
+    position: sticky;
+    height: 130px;
+    color:wheat;
+    bottom: 0;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.icons{
+    margin: 10px;
+    cursor: pointer;
+}
+
+
+#myProgressbar{
+    width: 80vw;
+    text-align: center;
+}
+
+.cover1{
+    background-color: white;
+    padding: 5px;
+    margin: 15px;
+    border-radius: 12px;
+    display:flex;
+    height: 20px;
+    color:black;
+}
+
+#despacitoo{
+    height:20px;
+    padding-right: 20px;
+    border-radius: 100%;
+    
+}
+#despacito{
+   padding-left: 20px;
+   padding-right: 20px;
+}
+
+#time1{
+  padding-left: 20px;
+  padding-right: 20px;
+}
+#play{
+    height: 20px;
+    padding-left: 90px;
+    
+}
+.cover2{
+    background-color: white;
+    padding: 5px;
+    margin: 15px;
+    border-radius: 12px;
+    display:flex;
+    height: 20px;
+    color:black;
+}
+
+#wildfiree{
+    height:20px;
+    padding-right: 20px;
+    border-radius: 100%;
+    
+}
+#wildfire{
+   padding-left: 20px;
+   padding-right: 20px;
+}
+
+#time2{
+  padding-left: 20px;
+  padding-right: 20px;
+}
+#play2{
+    height: 20px;
+    padding-left: 80px;
+}
+.cover3{
+    background-color: white;
+    padding: 5px;
+    border-radius: 12px;
+    margin: 15px;
+    display:flex;
+    height: 20px;
+    color:black;
+}
+
+#Memoriess{
+    height:20px;
+    padding-right: 20px;
+    border-radius: 100%;
+    
+}
+#Memories{
+   padding-left: 20px;
+   padding-right: 20px;
+}
+
+#time3{
+  padding-left: 20px;
+  padding-right: 20px;
+}
+#play3{
+    height: 20px;
+    padding-left: 100px;
+}
+.cover4{
+    background-color: white;
+    padding: 5px;
+    border-radius: 12px;
+    margin: 15px;
+    display:flex;
+    height: 20px;
+    color:black;
+}
+
+#Fadedd{
+    height:20px;
+    padding-right: 20px;
+    border-radius: 100%;
+    
+}
+#Faded{
+   padding-left: 20px;
+   padding-right: 20px;
+}
+
+#time4{
+  padding-left: 20px;
+  padding-right: 20px;
+}
+#play4{
+    height: 20px;
+    padding-left: 130px;
+}
+.cover5{
+    background-color: white;
+    padding: 5px;
+    border-radius: 12px;
+    margin: 15px;
+    display:flex;
+    height: 20px;
+    color:black;
+}
+
+#Letmee{
+    height:20px;
+    padding-right: 20px;
+    border-radius: 100%;
+    
+}
+#Letme{
+   padding-left: 20px;
+   padding-right: 20px;
+}
+
+#time5{
+  padding-left: 20px;
+  padding-right: 20px;
+}
+#play5{
+    height: 20px;
+    padding-left: 33px;
+}
+.cover6{
+    background-color: white;
+    padding: 5px;
+    border-radius: 12px;
+    margin: 15px;
+    display:flex;
+    height: 20px;
+    color:black;
+}
+
+#Lovemee{
+    height:20px;
+    padding-right: 20px;
+    border-radius: 100%;
+    
+}
+#Loveme{
+   padding-left: 20px;
+   padding-right: 20px;
+}
+
+#time6{
+  padding-left: 20px;
+  padding-right: 20px;
+}
+#play6{
+    height: 20px;
+    padding-left: 2px;
+}
+.cover7{
+    background-color: white;
+    padding: 5px;
+    border-radius: 12px;
+    margin: 15px;
+    display:flex;
+    height: 20px;
+    color:black;
+}
+
+#Stereoo{
+    height:20px;
+    padding-right: 20px;
+    border-radius: 100%;
+    
+}
+#Stereo{
+   padding-left: 20px;
+   padding-right: 20px;
+}
+
+#time7{
+  padding-left: 20px;
+  padding-right: 20px;
+}
+#play7{
+    height: 20px;
+    padding-left: 55px;
+}
+.cover8{
+    background-color: white;
+    padding: 5px;
+    border-radius: 12px;
+    margin: 15px;
+    display:flex;
+    height: 20px;
+    color:black;
+}
+
+#Bannerss{
+    height:20px;
+    padding-right: 20px;
+    border-radius: 100%;
+    
+}
+#Banners{
+   padding-left: 20px;
+   padding-right: 20px;
+}
+
+#time8{
+  padding-left: 20px;
+  padding-right: 20px;
+}
+#play8{
+    height: 20px;
+    padding-left: 110px;
+}
+.cover9{
+    background-color: white;
+    padding: 5px;
+    border-radius: 12px;
+    margin: 15px;
+    display:flex;
+    height: 20px;
+    color:black;
+}
+
+#Soull{
+    height:20px;
+    padding-right: 20px;
+    border-radius: 100%;
+    
+}
+#Soul{
+   padding-left: 20px;
+   padding-right: 20px;
+}
+
+#time9{
+  padding-left: 20px;
+  padding-right: 20px;
+}
+#play9{
+    height: 20px;
+    padding-left: 25px;
+}
+
+.cover10{
+    background-color: white;
+    padding: 5px;
+    border-radius: 12px;
+    margin: 15px;
+    display:flex;
+    height: 20px;
+    color:black;
+}
+
+#twilightt{
+    height:20px;
+    padding-right: 20px;
+    border-radius: 100%;
+    
+}
+#twilight{
+   padding-left: 20px;
+   padding-right: 20px;
+}
+
+#time10{
+  padding-left: 20px;
+  padding-right: 20px;
+}
+#play10{
+    height: 20px;
+    padding-left: 25px;
+}
+
+
+
+
+
+
+
